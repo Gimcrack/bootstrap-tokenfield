@@ -1,0 +1,14 @@
+{
+    "name": "ingenious/bootstrap-tokenfield",
+    "description": "Composer fork of sliptree/bootstrap-tokenfield",
+    "type": "component",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "sliptree",
+            "email": "email@sliptree.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
